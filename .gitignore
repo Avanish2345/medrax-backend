@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
