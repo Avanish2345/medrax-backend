@@ -5,3 +5,4 @@ pillow
 google-generativeai
 pymongo
 dnspython
+python-multipart
